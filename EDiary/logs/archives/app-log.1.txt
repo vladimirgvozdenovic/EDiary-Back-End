@@ -1,0 +1,6 @@
+2018-07-23 16:51:45.5865|INFO|EDiary.Services.StudentsService|Updated student (id:2ffbbd08-c029-4a9c-a8eb-32bcbd7496f0)
+2018-07-23 16:55:37.1225|INFO|EDiary.Services.StudentsService|Updated student (id:2ffbbd08-c029-4a9c-a8eb-32bcbd7496f0)
+2018-07-23 18:26:41.0920|INFO|EDiary.Services.SemesterGradesService|Added new semester grade
+2018-07-23 18:33:24.4668|INFO|EDiary.Services.StudentsService|Updated student (id:2ffbbd08-c029-4a9c-a8eb-32bcbd7496f0)
+2018-07-23 19:02:51.7986|INFO|EDiary.Services.StudentsService|Updated student (id:2ffbbd08-c029-4a9c-a8eb-32bcbd7496f0)
+2018-07-23 19:43:53.7050|INFO|EDiary.Services.SemesterGradesService|Added new semester grade

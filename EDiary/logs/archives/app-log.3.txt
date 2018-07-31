@@ -1,0 +1,8 @@
+2018-07-14 07:07:37.8496|INFO|EDiary.Services.StudentsService|Requesting usernames
+2018-07-14 07:16:29.2249|INFO|EDiary.Services.StudentsService|Requesting students
+2018-07-14 07:38:17.2386|INFO|EDiary.Controllers.StudentsController|Requesting students
+2018-07-14 08:15:56.1755|INFO|EDiary.Services.StudentsService|Requesting students
+2018-07-14 08:18:29.1937|INFO|EDiary.Services.StudentsService|Requesting students
+2018-07-14 08:18:29.2615|ERROR|EDiary.Services.StudentsService|Error requesting students
+2018-07-14 13:30:51.8534|INFO|EDiary.Services.StudentsService|Requesting students
+2018-07-14 13:33:46.9691|ERROR|EDiary.Repositories.UnitOfWork|Failed save changes to database

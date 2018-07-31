@@ -1,0 +1,1 @@
+2018-07-25 07:16:35.5384|INFO|EDiary.Services.SemesterGradesService|Added new semester grade
